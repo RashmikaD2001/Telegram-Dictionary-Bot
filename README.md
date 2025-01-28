@@ -46,7 +46,7 @@ This is a simple Telegram bot that fetches word meanings from an online dictiona
   ```
 
 ## Requirements
-- Python 3.7+
+- Python 3.9+
 - `python-telegram-bot` library
 - `requests` library
 - `.env` file containing the bot's Telegram API token:
