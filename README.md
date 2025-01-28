@@ -59,6 +59,3 @@ This is a simple Telegram bot that fetches word meanings from an online dictiona
 ## Notes
 - The bot uses `parse_mode='Markdown'` for rich-text formatting.
 - Handles invalid inputs and provides helpful error messages.
-
-## License
-This project is licensed under the MIT License. Feel free to use or modify it!
